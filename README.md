@@ -1,5 +1,5 @@
-# 国内可用的ChatGPT中文版镜像集合【GPT4、GPT o1 无限制使用】（2025/03）
->更新时间: 2025-03-16
+# 国内可用的ChatGPT中文版镜像集合【GPT4、GPT o1 无限制使用】（2025/05）
+>更新时间: 2025-05-19
 
 ## 目录
 
@@ -23,8 +23,8 @@
 
 | 网站名称 | 支持功能 | 链接 | 特点 |
 |---|---|---|---|
-| **一下AI** | GPT4.0、GPT o1、AI绘画 | [易下AI](https://www.yixiaai.com) | 简便易用、高性能、用户界面友好 |
-| **一起聊** | GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | [一起聊](https://chat.lify.vip) | 多功能综合、实时更新、强大社区支持 |
+| **一下AI** | GPT4.0、GPT o1、AI绘画 | [易下AI](https://xsimplechat.com) | 简便易用、高性能、用户界面友好 |
+| **一起聊** | GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | [一起聊](https://chat.lanjing.pro) | 多功能综合、实时更新、强大社区支持 |
 | **蓝晶AI** | GPT全系列模型 | [蓝晶AI](https://guide1.lanjing.ai) | 丰富的功能扩展、定期维护、高安全性 |
 
 ### **1. 一下AI**
